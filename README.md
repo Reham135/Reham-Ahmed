@@ -119,6 +119,12 @@
 </p>
 
 ---
+### 🏆 Certifications
+
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/1fa95dac-da67-4ea6-8691-1d0ab4163520)
+- **AWS Certified Developer – Associate (DVA-C02)** — _In Progress_
+
+---
 
 ### 📊 GitHub Stats
 
@@ -130,36 +136,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reham135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Reham135/ITI-Graduation-Project-Back-End">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reham135&repo=ITI-Graduation-Project-Back-End&theme=tokyonight&hide_border=true" alt="ITI Graduation Project - Backend"/>
-  </a>
-  <a href="https://github.com/Reham135/AngularProject-ITI-LandingPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reham135&repo=AngularProject-ITI-LandingPage&theme=tokyonight&hide_border=true" alt="Angular Landing Page"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Reham135/MovieRentalSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reham135&repo=MovieRentalSystem&theme=tokyonight&hide_border=true" alt="Movie Rental System"/>
-  </a>
-  <a href="https://github.com/Reham135/MVC.Hospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reham135&repo=MVC.Hospital&theme=tokyonight&hide_border=true" alt="MVC Hospital"/>
-  </a>
-</p>
-
----
-
-### 🏆 Certifications
-
-- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/1fa95dac-da67-4ea6-8691-1d0ab4163520)
-- **AWS Certified Developer – Associate (DVA-C02)** — _In Progress_
-
----
 
 <p align="center"><i>Always learning, always building. 🚀</i></p>
